@@ -1,0 +1,19 @@
+{
+        "id": 3146840,
+        "category": {
+          "id": 1,
+          "name": "dog"
+        },
+        "name": "Baruck",
+        "photoUrls": [
+          ""
+        ],
+        "tags": [
+          {
+            "id": 1,
+            "name": "vacinado"
+          }
+        ],
+        "status": "available"
+      }
+

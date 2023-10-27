@@ -1,0 +1,3 @@
+petId,categoryId,categoryName,petName,photoUrls,tagsIds,tagsNames,status
+3146840,1,dog,Baruck,,1;2,vacinado;castrado,available
+3146841,2,cat,Felix,,1;3,vacinado;vermifugado,available
